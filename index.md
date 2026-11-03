@@ -7,14 +7,12 @@ permalink: /
 last_modified_date: "2025-05-07 02:13AM"
 ---
 
-# Basics Template Site
+# SDS Colloquium
 {: .fs-9 }
 
 Here is a Subtitle
 {: .fs-6 .fw-300 }
 
-[Button](docs/setup/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Button](docs/setup/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Button](docs/setup/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Button](docs/setup/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Button](docs/setup/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

@@ -2,45 +2,45 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Template repo for basics sites."
+description: "SDS Colloquium"
 permalink: /
-last_modified_date: "2025-05-07 02:13AM"
+last_modified_date: "2026-11-04"
 ---
 
 # SDS Colloquium
 {: .fs-9 }
 
-Here is a Subtitle
-{: .fs-6 .fw-300 }
+The UVA School of Data Science Colloquium is a talk series to communicate research relevant to data science, broadly defined. If you are interested in giving a talk or suggesting a speaker, contact our current organizers: [Tom Hartvigsen](https://www.tomhartvigsen.com) and [YY Anh](https://yyahn.com).
 
-[Button](docs/setup/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Button](docs/setup/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Button](docs/setup/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-
----
-
-## Subheading
-
-Source control, also known as "version control," is the process of tracking changes and versions of electronic files over time. This might include code, data, images, and other files. Good source control management tools allow users to see the entire history of changes to any specific file, or the evolution of an entire project. `git` is currently the most popular and feature-rich source control tool.
-
-## Another Subheading
-
-> An indented block goes here.
-
-## What is GitHub? <img src="https://raw.githubusercontent.com/UVADS/git-basics/refs/heads/main/_assets/images/octocat-24.png" />
+If you would like to receive talk announcements, please [subscribe to our mailing list](https://lists.virginia.edu/sympa/subscribe/sds-colloquium): sds-colloquium at virginia.edu.
 
 
-## Contents
+## Fall 2026
 
-- [**Setup**](docs/setup/)
-  - Install and set up `git`
-  - Authenticate `git` to GitHub
-  - Basic configuration
-  - Troubleshooting authentication
-  - Key rotation
-- [**Creating and managing repositories**](docs/creating-repositories/)
-  - Clone
-  - Init
-  - Fork
-  - Delete
-  - Managing collaborators
+The SDS colloquium is on Fridays in SDS 246 from 2:00-3:00.
+
+
+### Schedule
+
+| Speaker                                                            | Title                                                                    | Date       |
+| ---                                                                | ---                                                                      | ---        |
+| [Jean-Gabriel Young](https://jgyoung.ca/)                          | Network and Graph Data Talk Series                                       | 09/18/2026 |
+| [Paul Torrey](https://as.virginia.edu/faculty-profile/paul-torrey) | AI for Astronomical Discovery through CosmicAI                           | 09/25/2026 |
+| [Alex Gates](https://alexandergates.net/)                          | When Are Pairs Enough? Networks, Groups, and the Organization of Science | 10/09/2026 |
+| [Momin Malik](https://www.mominmalik.com/)                         | Anti-positivist data science, and applications to healthcare AI          | 10/16/2026 |
+| [Chenhao Tan](https://chenhaot.com/)                               | Science in the Age of AI                                                 | 10/30/2026 |
+| [Tina Eliassi-Rad](https://eliassi.org/)                           | TBD                                                                      | 11/20/2026 |
+| [Dakota Murray](https://dakotamurray.me/)                          | TBD                                                                      | 12/04/2026 |
+| [Allison Koenecke](https://koenecke.infosci.cornell.edu/)          | TBD                                                                      | 12/11/2026 |
+
+## Previous years
+
+### Fall 2025
+| Speaker                                                                    | Date       |
+| ---                                                                        | ---        |
+| [Teague Henry](https://www.teaguehenry.com/)                               | 09/23/2025 |
+| [Wale Salaudeen](https://www.olawalesalaudeen.com/)                        | 10/21/2025 |
+| [Ray Mooney](https://www.cs.utexas.edu/~mooney/)                           | 10/31/2025 |
+| [Martin Slawski](https://statistics.as.virginia.edu/people/martin-slawski) | 11/11/2025 |
+| [Haoran Zhang](https://haoran.ca)                                          | 11/18/2025 |
+| [Amanda Mejia](https://www.statmindlab.com/)                               | 12/02/2025 |

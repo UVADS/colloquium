@@ -36,6 +36,7 @@ The SDS colloquium is on Fridays in SDS 246 from 2:00-3:00.
 ## Previous years
 
 ### Fall 2025
+
 | Speaker                                                                    | Date       |
 | ---                                                                        | ---        |
 | [Teague Henry](https://www.teaguehenry.com/)                               | 09/23/2025 |
